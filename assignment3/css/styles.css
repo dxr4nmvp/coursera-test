@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Section style */
+.menu-section {
+  background-color: #e0e0e0;
+  padding: 20px;
+  margin-top: 20px;
+  height: 1000px; /* para obligar scroll */
+}
